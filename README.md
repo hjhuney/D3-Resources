@@ -6,3 +6,6 @@
 
 ## Interactive Bar Charts
 * [D3 Bar Charts Tutorial](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/)
+
+## Choropleth Maps
+* [DUSPViz: Mapping Data with D3](http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/)
