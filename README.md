@@ -10,3 +10,10 @@
 ## Choropleth Maps
 * [DUSPViz: Mapping Data with D3](http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/)
 * [Animated Choropleth Map with D3](https://rahosbach.github.io/2018-10-27-d3UnemploymentChoropleth/)
+
+
+## Examples
+
+### Time-Lapse
+
+* [Map with Timeline (no autoplay)](http://bl.ocks.org/cmdoptesc/fc0e318ce7992bed7ca8)
