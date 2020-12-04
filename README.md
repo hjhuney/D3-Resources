@@ -17,3 +17,4 @@
 ### Time-Lapse
 
 * [Map with Timeline (no autoplay)](http://bl.ocks.org/cmdoptesc/fc0e318ce7992bed7ca8)
+* [Time Lapse: Unemployment Rate in Spain](https://github.com/LuisSevillano/historical-evolution-of-the-unemployment-rate-in-spain)
